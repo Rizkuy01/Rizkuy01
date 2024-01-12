@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/@rizkuyss666" target="blank"><img src="https://img.shields.io/twitter/follow/@rizkuyss666?logo=twitter&style=for-the-badge" alt="@rizkuyss666" /></a> </p>
 
-- 🔭 I’m currently working on **Develop Website on Education Faculty**
+- 🔭 I’m currently working on **17 SGD's Goals from United Nation**
 
 - 🌱 I’m currently learning **Digital Marketing Algorithm**
 
@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [github.com/Rizkuy01](github.com/Rizkuy01)
 
-- 💬 Ask me about **React Native, Laravel, or Tailwind. etc.**
+- 💬 Ask me about **React Native, Laravel, or Tech. etc.**
 
 - 📫 How to reach me **rizkysaputraa2004@gmail.com**
 
