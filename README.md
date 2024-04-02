@@ -1,10 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rizky Saputra</h1>
 <h3 align="center">Backend enthusiast. A passionate fullstack developer from Indonesia.</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.myportfolio.com/abb66555-9ff6-45d4-8c75-08339ffb7f51/490f180b-ae91-481d-b4d6-72420b7dcb00.gif?h=32c091c0c25e30f84c7d2da408199c14">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rizkuy01&label=Profile%20views&color=0e75b6&style=flat" alt="rizkuy01" /> </p>
-
-<p align="left"> <a href="https://twitter.com/@rizkuyss666" target="blank"><img src="https://img.shields.io/twitter/follow/@rizkuyss666?logo=twitter&style=for-the-badge" alt="@rizkuyss666" /></a> </p>
 
 - 🔭 I’m currently working on **17 SGD's Goals from United Nations**
 
