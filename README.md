@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rizkuy01&label=Profile%20views&color=0e75b6&style=flat" alt="rizkuy01" /> </p>
 
-- 🔭 I’m currently working on **17 SGD's Goals from United Nations**
+- 🔭 I’m currently working on **PREXITION PROJECT** with Global Vita Nutritech
 
 - 🌱 I’m currently learning **Digital Marketing Algorithm**
 
@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [github.com/Rizkuy01](github.com/Rizkuy01)
 
-- 💬 Ask me about **React Native, Laravel, or Tech. etc.**
+- 💬 Ask me about **React, Laravel, or Tech. etc.**
 
 - 📫 How to reach me **rizkysaputraa2004@gmail.com**
 
