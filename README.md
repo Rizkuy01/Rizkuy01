@@ -1,13 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rizky Saputra</h1>
-<h3 align="center">Backend enthusiast. A passionate fullstack developer from Indonesia.</h3>
+<h3 align="center">IT enthusiast. A passionate fullstack developer from Indonesia.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rizkuy01&label=Profile%20views&color=0e75b6&style=flat" alt="rizkuy01" /> </p>
 
-- 🔭 I’m currently working on **PREXITION PROJECT** with Global Vita Nutritech
-
 - 🌱 I’m currently learning **Digital Marketing Algorithm**
-
-- 👯 I’m looking to collaborate on **Inforsys Project's**
 
 - 👨‍💻 All of my projects are available at [github.com/Rizkuy01](github.com/Rizkuy01)
 
@@ -15,7 +11,6 @@
 
 - 📫 How to reach me **rizkysaputraa2004@gmail.com**
 
-- ⚡ Fun fact **'Lunatic People'**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
